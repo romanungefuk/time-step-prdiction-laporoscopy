@@ -1,0 +1,4 @@
+-Zeitabschätzung für OP-Schritte erledigt
+-Die Ergebnisse sind sosolala.Worstcase von der Gesamtfehlerqoute von der Test Op liegt bei 39%.
+-Beim Nächstenschritt der Arbeit werden die Daten auf Streuung,Honogonität und linearen Zusammenhang analysiert.
+-Datum 21.08.2015
